@@ -1,5 +1,5 @@
 <h1 align="center">
-  Common Core 42 - FdF
+  Common Core 42 - Minishell
 </h1>
 
 <p align="center">
